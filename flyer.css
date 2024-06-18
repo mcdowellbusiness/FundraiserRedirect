@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .image-container {
+    text-align: center;
+    margin-top: 20vh; /* Adjust as needed for spacing */
+  }
+  
+  .responsive-image {
+    max-width: 100%;
+    height: auto;
+  }

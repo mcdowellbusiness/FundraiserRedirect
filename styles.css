@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    text-align: center;
+    background-color: #424c55; /* Main background color */
+    color: #1B110E; /* Text color */
+}
+
+h1, h2 {
+    margin-bottom: 20px;
+}
+
+a {
+    color: #ABDF75; /* Contrast color */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#flyer-h2 {
+    margin-bottom: -15px;
+}
+
+#flyer-download a {
+    color: #495D63; /* Slight offset color */
+}
+
+h1 {
+    border: 2px solid #ABDF75;
+    width: 85%;
+    margin: 30px auto;
+    border-radius: 25px;
+    background-color: #ABDF75;
+}
